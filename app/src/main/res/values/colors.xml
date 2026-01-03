@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="shadowColor">#0D000000</color>
+    <color name="unselect_border">#DFDFDF</color>
+    <color name="edittext_bg">#F7F7F8</color>
+    <color name="view_line">#999999</color>
+    <color name="item_bg">#E7E4E4</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="startBtn">#009688</color>
+    <color name="stopBtn">#F42147</color>
+    <color name="clearBtn">#03A9F4</color>
+
+    <color name="app_bg">#F2F4FF</color>
+
+
+    <color name="black_eighty">#CC000000</color>
+
+    <color name="text.heading">#1A1A1A</color>
+    <color name="text.body">#555555</color>
+
+
+</resources>

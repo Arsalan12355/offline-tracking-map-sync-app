@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Bold, H1 Text -->
+    <style name="TextStyle.H1">
+        <item name="android:textSize">@dimen/_10ssp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Bold, H2 Text -->
+    <style name="TextStyle.H2">
+        <item name="android:textSize">@dimen/_12ssp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Bold, H2 Text -->
+    <style name="TextStyle.H3">
+        <item name="android:textSize">@dimen/_13ssp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Bold, H3 Text -->
+    <style name="TextStyle.H4">
+        <item name="android:textSize">@dimen/_14ssp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Bold, H4 Text -->
+    <style name="TextStyle.H5">
+        <item name="android:textSize">@dimen/_16ssp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Bold, H4 Text -->
+    <style name="TextStyle.H6">
+        <item name="android:textSize">@dimen/_18ssp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Bold, H4 Text -->
+    <style name="TextStyle.H7">
+        <item name="android:textSize">@dimen/_20ssp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextStyle.H8">
+        <item name="android:textSize">@dimen/_22ssp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextStyle.H9">
+        <item name="android:textSize">@dimen/_24ssp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+    <!-- Regular, Extra Large Text -->
+    <style name="TextStyle.Reg_xl">
+        <item name="android:textSize">@dimen/_16ssp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <!-- Regular, Large Text -->
+    <style name="TextStyle.Reg_lrg">
+        <item name="android:textSize">@dimen/_14ssp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <!-- Regular, Medium Text -->
+    <style name="TextStyle.Reg_med">
+        <item name="android:textSize">@dimen/_13ssp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <!-- Regular, Medium Text -->
+    <style name="TextStyle.Reg_med_s">
+        <item name="android:textSize">@dimen/_12ssp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <!-- Regular, Small Text -->
+    <style name="TextStyle.Reg_sml">
+        <item name="android:textSize">@dimen/_11ssp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <!-- Regular, Extra Small Text -->
+    <style name="TextStyle.Reg_sml_xl">
+        <item name="android:textSize">@dimen/_10ssp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <!-- Regular, Extra Small Text -->
+    <style name="TextStyle.Reg_xs">
+        <item name="android:textSize">@dimen/_8ssp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+
+    <style name="TextStyle">
+        <item name="android:fontFamily">@font/sanista_reg</item>
+    </style>
+
+</resources>
